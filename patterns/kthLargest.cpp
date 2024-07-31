@@ -1,4 +1,11 @@
-
+/* Step1- Define arr,size, k
+   for loop from i= 0 to k 
+    & j = i + 1 to size
+  Step2- if arr[j]> arr[max_index]
+           max_index = j
+  step3 - swap(arr[i], arr[max_element])  
+            return arr[k-1]         
+*/
 #include <iostream>
 using namespace std;
 
