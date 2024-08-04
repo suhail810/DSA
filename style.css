@@ -1,0 +1,25 @@
+/* Custom Styles */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    color: #fff;
+}
+
+.products .card {
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.products .card-title {
+    font-size: 1.25rem;
+}
+
+footer {
+    background-color: #333;
+}
